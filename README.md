@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pkanotara/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pkanotara/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pkanotara/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pkanotara/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/pkanotara/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pkanotara/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pkanotara/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pkanotara/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
