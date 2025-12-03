@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pkanotara/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pkanotara/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pkanotara/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pkanotara/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
