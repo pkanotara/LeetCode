@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pkanotara/LeetCode/tree/master/0011-container-with-most-water) |
+| [0152-maximum-product-subarray](https://github.com/pkanotara/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pkanotara/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/pkanotara/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pkanotara/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
