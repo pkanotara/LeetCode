@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pkanotara/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pkanotara/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pkanotara/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pkanotara/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pkanotara/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pkanotara/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pkanotara/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pkanotara/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
