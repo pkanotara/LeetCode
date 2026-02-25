@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pkanotara/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pkanotara/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pkanotara/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/pkanotara/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pkanotara/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
