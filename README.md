@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pkanotara/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pkanotara/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pkanotara/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pkanotara/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pkanotara/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pkanotara/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pkanotara/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Two Pointers
 |  |
 | ------- |
