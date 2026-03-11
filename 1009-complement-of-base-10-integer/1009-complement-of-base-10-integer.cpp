@@ -9,7 +9,7 @@ public:
 
         while(temp){
             mask = (mask << 1) | 1;
-            temp >>= 1;
+            temp = temp/2 ;
         }
 
         return mask ^ n;
