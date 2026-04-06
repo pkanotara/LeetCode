@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pkanotara/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/pkanotara/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pkanotara/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pkanotara/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pkanotara/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pkanotara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pkanotara/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pkanotara/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/pkanotara/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pkanotara/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pkanotara/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pkanotara/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/pkanotara/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pkanotara/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/pkanotara/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pkanotara/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
